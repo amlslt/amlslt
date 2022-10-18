@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="200"/>
 
-## 📙수업정리
-|수업차수|주제|정리|
-|----|--|--|
-|1주차|오리엔테이션|ㅇㅇㄹ|
