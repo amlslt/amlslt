@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="200"/>
 
 ![amlslt's GitHub stats](https://github-readme-stats.vercel.app/api?username=amlslt&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=amlslt)](https://solved.ac/amlslt)<br/>
