@@ -3,7 +3,6 @@
 <!--
 **amlslt/amlslt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ....
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .
 -->
+<b>인공지능 소프트웨어학과 20222596학번 김호민입니다.</b>
+
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
